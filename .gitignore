@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+
+# Distribution / packaging
+**/*.egg-info/
+**/*.egg
+
+# Sphinx build output
+docs/build/
+
+# Virtual environments
+venv/
+.env/
+.envs/
+*.venv/
+
+# IDE/editor files
+.idea/
+.vscode/
+**/*.swp
+~                    
