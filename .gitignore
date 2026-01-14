@@ -20,4 +20,6 @@ venv/
 .idea/
 .vscode/
 **/*.swp
-~                    
+
+# Jupyter notebook
+**/.ipynb_checkpoints/
